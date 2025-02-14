@@ -21,7 +21,7 @@ The list of tools used on this project are:
 
 <a class="anchor" id="installation_instructions"></a>
 >## Installation Instructions
-Installation can be achieved by
+Installation can be achieved by copying and pasting.
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
